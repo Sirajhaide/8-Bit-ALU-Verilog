@@ -1,13 +1,13 @@
 # 8-Bit Arithmetic Logic Unit (ALU) Design
 
-A fully combinational 8-Bit Arithmetic Logic Unit (ALU)** designed using Verilog HDL and verified via Behavioral Simulation on Xilinx Vivado**.
+A fully combinational 8-Bit Arithmetic Logic Unit (ALU) designed using Verilog HDL and verified via Behavioral Simulation on Xilinx Vivado.
 
 # 📌 Project Overview
 The objective of this project is to implement a basic 8-bit ALU capable of performing arithmetic and bitwise logical operations based on a 3-bit selection line (`sel`). 
 
 # Key Features:
 * No Inferred Latches: Designed with complete case coverage (including default states) to ensure a purely combinational circuit, optimizing timing and FPGA resource utilization.
-* Power-On Reset Simulation:** The testbench handles initialization smoothly to prevent any unexpected `X` (Unknown) states during the initial simulation phase.
+* Power-On Reset Simulation: The testbench handles initialization smoothly to prevent any unexpected `X` (Unknown) states during the initial simulation phase.
 
 ---
 
