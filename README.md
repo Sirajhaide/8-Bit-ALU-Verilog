@@ -46,4 +46,4 @@ The design was verified using a comprehensive testbench applying stimulus across
   * Logical AND (`sel=2`) yields `04 hex`.
 
 # Simulation Waveform:
-[8-Bit ALU Waveform](8_bit_ALU_Design_Waveform.png)
+![8-Bit ALU Waveform](8_bit_ALU_Design_Waveform.png)
